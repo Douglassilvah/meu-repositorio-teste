@@ -7,3 +7,4 @@
 2. Clonar um repositório remoto;[]
 
 3. Fazer alterações, pull;[]
+..........
